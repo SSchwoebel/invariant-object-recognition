@@ -36,3 +36,5 @@ nosetests.xml
 .pydevproject
 
 coil-100
+obj_invariance_first_run_save.py
+write_conns.py
